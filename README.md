@@ -39,5 +39,5 @@ _*To perform all test every pre-requires need to be prepared. for more informati
 To perform single test:
 
 ```bash
-uv run -m test/face_shape_detection
+uv run -m test/face_shape_classfication
 ```

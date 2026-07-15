@@ -1,4 +1,4 @@
-from services.face_shape_detection import detector
+from services.face_shape_classfication import detector
 from pathlib import Path
 
 FACE_TYPE_LIST = [
